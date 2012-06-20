@@ -1,5 +1,5 @@
-ghanoz-netbeans-code-templates
-==============================
+Ghanoz's JavaScript Code Template for NetBeans
+===
 
 The NetBeans code templates for the JavaScript project file.
 
