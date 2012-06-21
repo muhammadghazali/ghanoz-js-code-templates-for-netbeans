@@ -1,6 +1,9 @@
 Changelog for  Ghanoz's JavaScript Code Template for NetBeans
 ===
 
+v0.2.0 / 2012-06-21
+* Added code template for JS comments
+
 v0.1.1 / 2012-06-20
 * Fixed the README page headers.
   * Merge branch 'release-0.1.1'
