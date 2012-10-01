@@ -1,5 +1,10 @@
-Changelog for  Ghanoz's JavaScript Code Template for NetBeans
-===
+
+v0.3.0 / 2012-10-01 
+==================
+
+  * Added code template for anonymous function and required statement to load module.
+  * Merge branch 'release-0.2.1' into development
+  * Bump the version to v0.2.1
 
 v0.2.1 / 2012-06-21
 * Reformat the changelog.
