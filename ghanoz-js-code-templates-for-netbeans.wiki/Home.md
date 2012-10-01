@@ -1,0 +1,1 @@
+Welcome to the ghanoz-js-code-templates-for-netbeans wiki!
