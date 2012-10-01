@@ -7,3 +7,5 @@ The code template list:
 
 * console.log()
 * multi-line comment
+* anonymous function without name
+* anonymous function with name
