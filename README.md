@@ -9,3 +9,4 @@ The code template list:
 * multi-line comment
 * anonymous function without name
 * anonymous function with name
+* load module code template
