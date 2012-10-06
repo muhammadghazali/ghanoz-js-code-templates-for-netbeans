@@ -1,10 +1,10 @@
 Ghanoz's JavaScript Code Template for NetBeans
 ===
 
-# Introduction
+## Introduction
 The NetBeans code templates for the JavaScript project file.
 
-# The ghanoz's code template
+## The ghanoz's code template
 
 * console.log()
 * multi-line comment
@@ -12,9 +12,9 @@ The NetBeans code templates for the JavaScript project file.
 * anonymous function with name
 * load module code template
 
-# Authors
+## Authors
 Muhammad Ghazali
 
-# License
+## License
 Ghanoz's JavaScript Code Template for NetBeans is licensed under the MIT License.
 
