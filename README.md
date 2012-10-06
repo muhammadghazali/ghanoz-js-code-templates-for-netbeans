@@ -1,8 +1,6 @@
 Ghanoz's JavaScript Code Template for NetBeans
 ===
 
-![Muhammad 'Ghanoz' Ghazali](http://muhammadghazali.files.wordpress.com/2007/05/img866.jpg "Muhammad 'Ghanoz' Ghazali")
-
 # Introduction
 The NetBeans code templates for the JavaScript project file.
 

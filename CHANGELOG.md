@@ -3,6 +3,7 @@ v0.3.2 / 2012-10-07
 ==================
 
   * Added the MIT license.
+  * Removed my image from readme
 
 v0.3.1 / 2012-10-02 
 ==================
