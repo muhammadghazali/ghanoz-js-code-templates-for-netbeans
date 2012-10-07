@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE codetemplates PUBLIC "-//NetBeans//DTD Editor Code Templates settings 1.0//EN" "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
+<codetemplates>
+    <codetemplate abbreviation="loadmodule" xml:space="preserve">
+        <code><![CDATA[var ${name} = require('${cursor}');]]></code>
+        <description><![CDATA[var loadedModule = require('module-name');]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="anonamefunc" xml:space="preserve">
+        <code><![CDATA[function ${name} (${parameters}) {
+    ${cursor}
+}]]></code>
+        <description><![CDATA[function name() { }]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="conlog" xml:space="preserve">
+        <code><![CDATA[console.log(${cursor});]]></code>
+        <description><![CDATA[console.log();]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="anofunc" xml:space="preserve">
+        <code><![CDATA[function (${parameters}) {
+    ${cursor}
+}]]></code>
+        <description><![CDATA[function () { }
+
+]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="comments" xml:space="preserve">
+        <code><![CDATA[/**
+ * ${cursor}
+ */]]></code>
+        <description><![CDATA[/**
+ * Comments
+ */]]></description>
+    </codetemplate>
+</codetemplates>
