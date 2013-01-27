@@ -1,12 +1,10 @@
 
-n.n.n / 2013-01-27 
+v0.3.3 / 2013-01-27 
 ==================
 
   * Index the build contents.
   * Ignored the local .zip files.
   * Extracted the compressed code template.
-  * Merge branch 'release-0.3.2' into development
-  * Merge branch 'release-0.3.2' into development
 
 v0.3.2 / 2012-10-07 
 ==================
