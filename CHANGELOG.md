@@ -1,4 +1,9 @@
 
+v0.4.0 / 2013-01-27 
+==================
+
+  * Added  and  code template to replace loadmodule code template.
+
 v0.3.3 / 2013-01-27 
 ==================
 
