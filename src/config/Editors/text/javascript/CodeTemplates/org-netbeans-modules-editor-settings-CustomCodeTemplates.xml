@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE codetemplates PUBLIC "-//NetBeans//DTD Editor Code Templates settings 1.0//EN" "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
 <codetemplates>
-    <codetemplate abbreviation="loadmodule" xml:space="preserve">
-        <code><![CDATA[var ${name} = require('${cursor}');]]></code>
-        <description><![CDATA[var loadedModule = require('module-name');]]></description>
+    <codetemplate abbreviation="conlog" xml:space="preserve">
+        <code><![CDATA[console.log(${cursor});]]></code>
+        <description><![CDATA[console.log();]]></description>
     </codetemplate>
     <codetemplate abbreviation="anonamefunc" xml:space="preserve">
         <code><![CDATA[function ${name} (${parameters}) {
@@ -11,9 +11,9 @@
 }]]></code>
         <description><![CDATA[function name() { }]]></description>
     </codetemplate>
-    <codetemplate abbreviation="conlog" xml:space="preserve">
-        <code><![CDATA[console.log(${cursor});]]></code>
-        <description><![CDATA[console.log();]]></description>
+    <codetemplate abbreviation="require" xml:space="preserve">
+        <code><![CDATA[var ${name} = require('${module}');]]></code>
+        <description><![CDATA[var moduleA = require('module-a');]]></description>
     </codetemplate>
     <codetemplate abbreviation="anofunc" xml:space="preserve">
         <code><![CDATA[function (${parameters}) {
@@ -30,5 +30,13 @@
         <description><![CDATA[/**
  * Comments
  */]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="requires" xml:space="preserve">
+        <code><![CDATA[var
+  ${name1st} = require('${module1st}'),
+  ${name2nd} = require('${module2nd}')${selection}${cursor};]]></code>
+        <description><![CDATA[var
+  moduleA = require('module-a'),
+  moduleB = require('module-b');]]></description>
     </codetemplate>
 </codetemplates>
